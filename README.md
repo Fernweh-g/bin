@@ -1,2 +1,2 @@
-# bin
-just try
+# Google colab
+d2l
